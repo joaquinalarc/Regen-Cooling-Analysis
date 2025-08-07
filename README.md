@@ -41,6 +41,7 @@ The results are plotted and exported to a CSV file for further engineering analy
 You can install dependencies with:
 ```bash
 pip install numpy matplotlib
+```
 
 ## 🧑‍💻 About me
 
