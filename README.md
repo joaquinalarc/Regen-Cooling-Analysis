@@ -43,11 +43,16 @@ You can install dependencies with:
 pip install numpy matplotlib
 ```
 
+## Notes 
+
+- The file `MATERIAL_PROPERTIES.py` is **not included** in this repository as it was provided internally by the Purdue Space Program Liquids team.
+- If you are interested in accessing the material properties module or running the solver independently, please contact the team directly or use the provided `MATERIAL_PROPERTIES_TEMPLATE.py` as a placeholder.  
+
 ## 🧑‍💻 About me
 
 I'm Joaquín, a freshman at Purdue University majoring in Aerospace Engineering. This project was developed as an introduction to regenerative cooling systems in liquid rocket engines, focusing on thermal resistance modeling and temperature distribution along the outer wall. 
 
-Special thanks to **Jack Sloan** and **Anshuman Samanta** for their guidance and encouragement — this wouldn't have been possible without them. I'm excited for the many projects ahead with PSP.
+Special thanks to **Jack Sloan** and **Anshuman Samanta** for their guidance and encouragement, this wouldn't have been possible without them. 
 
 Feel free to reach out or connect with me on [LinkedIn](https://pe.linkedin.com/in/joaquin-alarcon)
 
