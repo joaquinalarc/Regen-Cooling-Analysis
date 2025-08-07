@@ -48,3 +48,15 @@ pip install numpy matplotlib
 I'm Joaquin, a freshman at **Purdue University** majoring in Aerospace Engineering. This project was developed to deepen my understanding of rocket dynamics and prepare for research opportunities in propulsion and trajectory modeling 
 
 Feel free to reach out or connect with me on [LinkedIn](https://pe.linkedin.com/in/joaquin-alarcon)
+
+## 📬 Contact:
+
+- 📧 Email: joaq.alrc@outlook.com
+- 🌐 Github : [@joaquinalarc](https://github.com/joaquinalarc)
+- 📸 Instagram : [@joa.alarcon_](https://www.instagram.com/joa.alarcon_/)
+
+## 💖 Support:
+
+Liked this project? Help me keep building rockets (and maybe buy some coffee too):
+
+☕ [Donate via Paypal](https://www.paypal.me/joaquix96)
