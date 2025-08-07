@@ -43,7 +43,7 @@ You can install dependencies with:
 pip install numpy matplotlib
 ```
 
-## Notes 
+## ⚠️ Notes 
 
 - The file `MATERIAL_PROPERTIES.py` is **not included** in this repository as it was provided internally by the Purdue Space Program Liquids team.
 - If you are interested in accessing the material properties module or running the solver independently, please contact the team directly or use the provided `MATERIAL_PROPERTIES_TEMPLATE.py` as a placeholder.  
