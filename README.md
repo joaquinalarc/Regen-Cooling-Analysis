@@ -29,7 +29,7 @@ The results are plotted and exported to a CSV file for further engineering analy
 
 ## 📷 Example Output 
 
-![T1 and T2 Plot](./output_plot.png) <!-- (optional if you include image later) -->
+![T1 and T2 Plot](./output_plot.png) 
 
 ## 🧪 Dependencies
 
