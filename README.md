@@ -45,8 +45,21 @@ pip install numpy matplotlib
 
 ## ⚠️ Notes 
 
+- The dataset used in this analysis (`PSPSPdataReal.csv`) was provided by the Purdue Space Program (PSP) and contains internal projects parameters.
+- To respect the ownership and confidentiality of PSP's materials, this file is **not included** in the repository.
+- The file `PSPSPdataDummy.csv` is a sample dataset created for demonstration purposes. It contains mock values but mantains the same column structure as the original dataset.
+  
 - The file `MATERIAL_PROPERTIES.py` is **not included** in this repository as it was provided internally by the Purdue Space Program Liquids team.
-- If you are interested in accessing the material properties module or running the solver independently, please contact the team directly or use the provided `MATERIAL_PROPERTIES_TEMPLATE.py` as a placeholder.  
+- If you are interested in accessing the material properties module or running the solver independently, please contact the team directly or use the provided `MATERIAL_PROPERTIES_TEMPLATE.py` as a placeholder.
+
+## Reusability
+
+This code is fuly functional and modular. If you already have a data set with similar structure (including tip temperature, bulk temperature, ambient temperature, cross-sectional areas, wall thickness, and fin resistances, etc.) you can plug your data directly into the pipeline.
+
+This makes the project adaptable for:
+- Rocket engine regenerative cooling analysis
+- Thermal modeling of cylindrical components
+- Any heat flow study requiring iterative thermal resistance solving
 
 ## 🧑‍💻 About me
 
