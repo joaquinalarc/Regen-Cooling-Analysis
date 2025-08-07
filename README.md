@@ -29,7 +29,7 @@ The results are plotted and exported to a CSV file for further engineering analy
 
 ## 📷 Example Output 
 
-![T1 and T2 Plot](./output_plot.png) 
+![T1 and T2 Plot](outputs/T1-n-T2-vs-Axial_Station.png) 
 
 ## 🧪 Dependencies
 
