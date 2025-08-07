@@ -45,7 +45,9 @@ pip install numpy matplotlib
 
 ## 🧑‍💻 About me
 
-I'm Joaquin, a freshman at **Purdue University** majoring in Aerospace Engineering. This project was developed to deepen my understanding of rocket dynamics and prepare for research opportunities in propulsion and trajectory modeling 
+I'm Joaquín, a freshman at Purdue University majoring in Aerospace Engineering. This project was developed as an introduction to regenerative cooling systems in liquid rocket engines, focusing on thermal resistance modeling and temperature distribution along the outer wall. 
+
+Special thanks to **Jack Sloan** and **Anshuman Samanta** for their guidance and encouragement — this wouldn't have been possible without them. I'm excited for the many projects ahead with PSP.
 
 Feel free to reach out or connect with me on [LinkedIn](https://pe.linkedin.com/in/joaquin-alarcon)
 
