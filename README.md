@@ -41,3 +41,9 @@ The results are plotted and exported to a CSV file for further engineering analy
 You can install dependencies with:
 ```bash
 pip install numpy matplotlib
+
+## 🧑‍💻 About me
+
+I'm Joaquin, a freshman at **Purdue University** majoring in Aerospace Engineering. This project was developed to deepen my understanding of rocket dynamics and prepare for research opportunities in propulsion and trajectory modeling 
+
+Feel free to reach out or connect with me on [LinkedIn](https://pe.linkedin.com/in/joaquin-alarcon)
